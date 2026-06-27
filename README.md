@@ -95,12 +95,12 @@ Releases are produced by the [`slidegenerator-runtimes.yml`](.github/workflows/s
 
 | Platform | Runner |
 |----------|--------|
-| win-x64 | `windows-2025` |
+| win-x64 | `windows-latest` |
 | win-arm64 | `windows-11-arm` |
-| linux-x64 | `ubuntu-22.04` |
+| linux-x64 | `ubuntu-24.04` |
 | linux-arm64 | `ubuntu-24.04-arm` |
-| osx-x64 | `macos-13` |
-| osx-arm64 | `macos-14` |
+| osx-x64 | `macos-26-intel` |
+| osx-arm64 | `macos-26` |
 
 ## License
 
